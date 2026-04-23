@@ -1,7 +1,7 @@
 # Terraform local state and backups
 **/.terraform/*
-*.tfstate
-*.tfstate.*
+# *.tfstate
+# *.tfstate.*
 crash.log
 crash.*.log
 *.tfvars
